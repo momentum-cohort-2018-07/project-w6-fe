@@ -33,6 +33,10 @@ import books from './books.json'
 ![Wireframe](freeshelf-wireframe.png)
 
 
-## Directions - day 2
+## Directions - day 2 and beyond
 
-Forthcoming!
+Instead of getting the book data from `books.json`, use the new `db.json` file with JSON-Server to create an API, then load the data from the API.
+
+Once you have the API working for display, add the ability to edit each book. You can do this within the current view you have, or create the ability to change to a different view -- a form where you would edit a single book.
+
+Lastly, add the ability to add new books to the list, storing them in the API.
